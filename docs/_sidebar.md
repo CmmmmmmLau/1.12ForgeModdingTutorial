@@ -3,7 +3,7 @@
 * [Minecraft 1.12 Forge Mod开发学习笔记](README.md)
 * [返回Cm's Blog](http://cmmmmmm.com/)
 
-## 开发前的准备 <a href="#1" id="1"></a>
+## 1.开发前的准备 <a href="#1" id="1"></a>
 
 * [1.1 配置MinecraftForge开发环境](1/1.1/README.md)
   * [1.1.1 手动配置](1/1.1/1.1.1.md)
