@@ -93,7 +93,7 @@ itemGroup.testmod=Test Mod
 
 ## 测试
 
-![](</../../assets/image (51).png>)
+![](<../../assets/image (51).png>)
 
 
 
@@ -114,7 +114,7 @@ itemGroup.testmod=Test Mod
 
 添加一个小号搜索框.没啥好说明的
 
-![](</../../assets/image (39).png>)
+![](<../../assets/image (39).png>)
 
 ## 整体代码
 
