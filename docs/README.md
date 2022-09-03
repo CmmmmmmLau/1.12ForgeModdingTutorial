@@ -1,8 +1,9 @@
 ---
-description: 2020.7.19 重新编写
+2020.7.19 重新编写
 ---
 
-# Minecraft 1.12 Forge Mod开发学习笔记
+
+raft 1.12 Forge Mod开发学习笔记
 
 
 
