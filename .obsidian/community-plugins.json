@@ -1,5 +1,6 @@
 [
   "quick-latex",
   "obsidian-latex-environments",
-  "obsidian-git"
+  "obsidian-git",
+  "find-and-replace-in-selection"
 ]

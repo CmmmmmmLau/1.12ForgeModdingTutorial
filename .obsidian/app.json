@@ -4,6 +4,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "docs/assets",
   "alwaysUpdateLinks": true
 }
