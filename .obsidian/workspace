@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "256a8be86277cf7a",
+        "id": "6ee7607e3c212b6e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "256a8be86277cf7a",
+  "active": "6ee7607e3c212b6e",
   "lastOpenFiles": [
+    "docs/chapter-1/1.4.md",
+    "docs/chapter-1/1.2.md",
+    "chapter-1/chapter-1/1.4.md",
+    "docs/_sidebar.md",
     "docs/README.md",
     "docs/chapter-2/2.1.md",
     "docs/chapter-1/1.1/1.1.1.md",
-    "docs/_sidebar.md",
-    "docs/chapter-1/1.2.md",
     "docs/chapter-1/1.1/1.1.2.md",
-    "docs/chapter-1/1.4.md",
     "docs/chapter-2/2.5/2.5.3.md",
-    "docs/chapter-2/2.5/2.5.1.md",
-    "docs/chapter-2/2.Missing Texture.md"
+    "docs/chapter-2/2.5/2.5.1.md"
   ]
 }
