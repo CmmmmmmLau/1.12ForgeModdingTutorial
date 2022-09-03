@@ -11,7 +11,7 @@
           "state": {
             "file": "docs/_sidebar.md.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -87,7 +87,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77772ef4e8cc1b29",
+  "active": "256a8be86277cf7a",
   "lastOpenFiles": [
     "docs/README.md",
     "docs/_sidebar.md.md",
