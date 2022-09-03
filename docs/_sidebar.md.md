@@ -1,9 +1,9 @@
-- Table of contents
+# Table of contents
 
 * [Minecraft 1.12 Forge Mod开发学习笔记](README.md)
 * [返回Cm's Blog](http://cmmmmmm.com/)
 
-- 开发前的准备 <a href="#1" id="1"></a>
+## 开发前的准备 <a href="#1" id="1"></a>
 
 * [1.1 配置MinecraftForge开发环境](1/1.1/README.md)
   * [1.1.1 手动配置](1/1.1/1.1.1.md)
@@ -21,7 +21,7 @@
   * [1.3.6 游戏主循环](1.3-zhu-lei-de-jiang-jie/1.3.4-sheng-ming-zhou-qi.md)
 * [1.5 解析主类](1.5-jie-xi-zhu-lei.md)
 
-- 2.小试牛刀
+## 2.小试牛刀
 
 * [2.1 第一个物品](2.-xiao-shi-niu-dao/2.1-di-yi-ge-wu-pin.md)
 * [2.2 第一个方块](2.-xiao-shi-niu-dao/2.2-di-yi-ge-fang-kuai.md)
@@ -34,7 +34,7 @@
   * [2.5.3 方块注册优化](2.-xiao-shi-niu-dao/mo-kuai-hua-dai-ma/2.5.3-fang-kuai-zhu-ce-you-hua.md)
 * [2.? 救救我,我的物品材质永远都是紫黑块](2.-xiao-shi-niu-dao/2.-jiu-jiu-wo-wo-de-wu-pin-cai-zhi-yong-yuan-du-shi-zi-hei-kuai.md)
 
-- WIP
+## WIP
 
 * [自定义配方](wip/zi-ding-yi-pei-fang.md)
 * [第一套护甲](wip/di-yi-tao-hu-jia-1.md)
