@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Minecraft 1.12 Forge Mod开发学习笔记](docs/README.md)
+* [Minecraft 1.12 Forge Mod开发学习笔记](README.md)
 * [返回Cm's Blog](http://cmmmmmm.com/)
 
 ***
@@ -19,7 +19,7 @@
   * [1.3.4 能力系统](chapter-1/1.3/1.3.4.md)
   * [1.3.5 代理系统](chapter-1/1.3/1.3.5.md)
   * [1.3.6 游戏主循环](chapter-1/1.3/1.3.6.md)
-* [1.5 解析主类](chapter-1/chapter-1/1.4.md)
+* [1.5 解析主类](chapter-1/chapter-1/1.5.md)
 
 ***
 
