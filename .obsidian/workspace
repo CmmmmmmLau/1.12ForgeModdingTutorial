@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/_sidebar.md.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/_sidebar.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "256a8be86277cf7a",
+  "active": "77772ef4e8cc1b29",
   "lastOpenFiles": [
-    "docs/SUMMARY.md",
     "docs/README.md",
+    "docs/_sidebar.md.md",
     "test2.md",
     "hi.md"
   ]
