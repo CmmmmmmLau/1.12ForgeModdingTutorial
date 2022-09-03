@@ -7,15 +7,21 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css" />
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
+      autoHeader: true,
       subMaxLevel: 2,
+      themeColor: "#42b983",
       name: '1.12 Forge Tutorial',
-      repo: ''
+      repo: '',
+      darklightTheme: {
+                defaultTheme : 'dark'
+            }
     }
   </script>
   <!-- Docsify v4 -->
@@ -29,5 +35,8 @@
 
   <!-- 字数统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript">
+</script>
 </body>
 </html>
