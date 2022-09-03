@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets",
