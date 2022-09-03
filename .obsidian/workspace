@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-2/2.5/2.5.4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-2/2.5/2.5.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "47370f784b2257e1",
   "lastOpenFiles": [
-    "docs/chapter-2/2.5/2.5.4.md",
     "docs/chapter-2/2.5/2.5.3.md",
+    "docs/chapter-2/2.5/2.5.4.md",
+    "docs/chapter-2/2.4.md",
+    "docs/_sidebar.md",
     "docs/chapter-2/2.5/README.md",
     "docs/chapter-2/2.5/2.5.1.md",
     "docs/chapter-2/2.5/2.5.2.md",
-    "docs/_sidebar.md",
     "docs/chapter-2/2.6.md",
     "docs/chapter-1/1.1/README.md",
-    "docs/chapter-1/1.1/1.1.2.md",
-    "docs/chapter-1/1.1/1.1.1.md"
+    "docs/chapter-1/1.1/1.1.2.md"
   ]
 }
