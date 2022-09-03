@@ -7,7 +7,7 @@
 
 ## 1.开发前的准备
 
-* [1.1 配置MinecraftForge开发环境](chapter-1/1.1/README.md)
+* [1.1 配置MinecraftForge开发环境](README.md)
   * [1.1.1 手动配置](chapter-1/1.1/1.1.1.md)
   * [1.1.2 使用插件](chapter-1/1.1/1.1.2.md)
 

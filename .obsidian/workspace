@@ -90,6 +90,7 @@
   "active": "256a8be86277cf7a",
   "lastOpenFiles": [
     "docs/_sidebar.md",
+    "docs/chapter-1/1.1/1.1.1.md",
     "docs/chapter-1/1.2.md",
     "docs/chapter-1/1.1/1.1.2.md",
     "docs/chapter-1/1.4.md",
@@ -97,7 +98,6 @@
     "docs/chapter-2/2.5/2.5.1.md",
     "docs/chapter-2/2.Missing Texture.md",
     "docs/chapter-2/2.4.md",
-    "docs/chapter-2/2.3/Anonymous Inner Class.md",
-    "docs/chapter-2/2.2.md"
+    "docs/chapter-2/2.3/Anonymous Inner Class.md"
   ]
 }
