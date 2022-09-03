@@ -6,11 +6,11 @@
       {
         "id": "47370f784b2257e1",
         "type": "leaf",
-        "dimension": 57.30769230769231,
+        "dimension": 49.871794871794876,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.Missing Texture.md",
+            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
             "mode": "source",
             "source": true
           }
@@ -20,11 +20,11 @@
       {
         "id": "228d29f0e1a756af",
         "type": "leaf",
-        "dimension": 42.69230769230769,
+        "dimension": 50.128205128205124,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.Missing Texture.md",
+            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-2/2.Missing Texture.md",
+                "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "47370f784b2257e1",
   "lastOpenFiles": [
-    "docs/chapter-2/2.4.md",
+    "docs/chapter-2/2.6/2.6.2 first armor.md",
+    "docs/chapter-2/2.6/2.6.1 first tools.md",
     "docs/chapter-2/2.1.md",
     "docs/chapter-2/2.3/Anonymous Inner Class.md",
     "docs/chapter-1/1.3/1.3.1.md",
-    "docs/chapter-2/2.Missing Texture.md",
-    "docs/chapter-2/2.2.md",
-    "docs/README.md",
-    "docs/chapter-2/2.5/2.5.4.md",
     "docs/chapter-2/2.5/2.5.3.md",
-    "docs/chapter-2/2.5/README.md"
+    "docs/chapter-2/2.5/2.5.4.md",
+    "docs/chapter-2/2.Missing Texture.md",
+    "docs/chapter-2/2.4.md",
+    "docs/chapter-2/2.2.md"
   ]
 }
