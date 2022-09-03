@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [Minecraft 1.12 Forge Mod开发学习笔记](README.md)
 * [返回Cm's Blog](http://cmmmmmm.com/)
