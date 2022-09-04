@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "direction": "horizontal",
     "width": 222.5
   },
-  "active": "7f770caffffb5d02",
+  "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
-    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/_sidebar.md",
+    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/wip/zi-ding-yi-pei-fang.md",
     "docs/wip/mo-xing-wen-jian-json.md",
     "docs/wip/di-yi-tao-hu-jia-1.md",
