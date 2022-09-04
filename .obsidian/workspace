@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+                "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,19 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
-  "active": "7f770caffffb5d02",
+  "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
+    "docs/_sidebar.md",
+    "docs/wip/zi-ding-yi-pei-fang.md",
+    "docs/wip/mo-xing-wen-jian-json.md",
+    "docs/wip/di-yi-tao-hu-jia-1.md",
+    "docs/wip/di-yi-tao-gong-ju.md",
     "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/chapter-2/2.6/2.6.1 first tools.md",
     "docs/chapter-2/2.1.md",
     "docs/chapter-2/2.5/2.5.1.md",
-    "docs/chapter-2/2.Missing Texture.md",
-    "docs/chapter-2/2.4.md",
-    "docs/chapter-1/1.4.md",
-    "docs/chapter-1/1.2.md",
-    "docs/chapter-1/1.1/1.1.1.md",
-    "docs/assets/image (16).png"
+    "docs/chapter-2/2.Missing Texture.md"
   ]
 }
