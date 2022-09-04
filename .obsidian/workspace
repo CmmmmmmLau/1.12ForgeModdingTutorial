@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+            "file": "docs/_sidebar.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+            "file": "docs/_sidebar.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-2/2.6/2.6.1 first tools.md",
+                "file": "docs/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "47370f784b2257e1",
   "lastOpenFiles": [
-    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/chapter-2/2.6/2.6.1 first tools.md",
+    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/chapter-2/2.1.md",
     "docs/chapter-2/2.3/Anonymous Inner Class.md",
     "docs/chapter-1/1.3/1.3.1.md",
