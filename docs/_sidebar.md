@@ -42,6 +42,4 @@
 
 * WIP
 	* [自定义配方](wip/zi-ding-yi-pei-fang.md)
-	* [第一套护甲](wip/di-yi-tao-hu-jia-1.md)
-	* [第一套工具](wip/di-yi-tao-gong-ju.md)
 	* [模型文件JSON](wip/mo-xing-wen-jian-json.md)
