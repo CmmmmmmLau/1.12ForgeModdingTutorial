@@ -35,6 +35,7 @@
 	* 2.6 第一套装备
 		* [2.6.1 第一套工具](chapter-2/2.6/2.6.1%20first%20tools.md) 
 		* [2.6.2 第一套防具](chapter-2/2.6/2.6.2%20first%20armor.md)
+	* 2.7 自定义配方
 	* [2.? 救救我,我的物品材质永远都是紫黑块](chapter-2/2.Missing%20Texture.md)
 
 ***
