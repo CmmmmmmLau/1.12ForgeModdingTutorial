@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.Missing Texture.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.Missing Texture.md",
+            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-2/2.Missing Texture.md",
+                "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "7f770caffffb5d02",
   "lastOpenFiles": [
+    "docs/chapter-2/2.Missing Texture.md",
     "docs/chapter-2/2.1.md",
     "docs/_sidebar.md",
     "docs/wip/zi-ding-yi-pei-fang.md",
@@ -122,7 +123,6 @@
     "docs/chapter-2/2.6/2.6.1 first tools.md",
     "docs/chapter-2/2.5/2.5.4.md",
     "docs/chapter-2/2.5/2.5.3.md",
-    "docs/chapter-2/2.5/2.5.2.md",
-    "docs/chapter-2/2.5/2.5.1.md"
+    "docs/chapter-2/2.5/2.5.2.md"
   ]
 }
