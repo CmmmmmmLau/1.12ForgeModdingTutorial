@@ -6,11 +6,11 @@
       {
         "id": "6bc55d326acc1d41",
         "type": "leaf",
-        "dimension": 59.865470852017935,
+        "dimension": 55.769230769230774,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
+            "file": "docs/chapter-2/2.7/2.7.1.md",
             "mode": "source",
             "source": true
           }
@@ -20,11 +20,11 @@
       {
         "id": "7f770caffffb5d02",
         "type": "leaf",
-        "dimension": 40.134529147982065,
+        "dimension": 44.230769230769226,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
+            "file": "docs/chapter-2/2.7/2.7.1.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-2/2.6/2.6.2 first armor.md",
+                "file": "docs/chapter-2/2.7/2.7.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "7f770caffffb5d02",
   "lastOpenFiles": [
+    "docs/_sidebar.md",
+    "docs/chapter-2/2.7/2.7.1.md",
+    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/chapter-2/2.Missing Texture.md",
     "docs/chapter-2/2.1.md",
-    "docs/_sidebar.md",
     "docs/wip/zi-ding-yi-pei-fang.md",
     "docs/wip/mo-xing-wen-jian-json.md",
-    "docs/chapter-2/2.6/2.6.2 first armor.md",
     "docs/chapter-2/2.6/2.6.1 first tools.md",
     "docs/chapter-2/2.5/2.5.4.md",
-    "docs/chapter-2/2.5/2.5.3.md",
-    "docs/chapter-2/2.5/2.5.2.md"
+    "docs/chapter-2/2.5/2.5.3.md"
   ]
 }
