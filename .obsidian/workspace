@@ -10,9 +10,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-3/3.2/3.2.2.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
         "group": "daa780ebacb21f02"
@@ -24,9 +24,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
-            "mode": "preview",
-            "source": true
+            "file": "docs/chapter-3/3.2/3.2.2.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "daa780ebacb21f02"
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-3/3.2/3.2.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
+    "docs/chapter-3/3.2/3.2.1.md",
     "docs/chapter-3/3.1/3.1.2.md",
     "docs/chapter-3/3.1/3.1.1.md",
-    "docs/_sidebar.md",
-    "docs/chapter-2/2.3/README.md",
-    "docs/chapter-2/2.3/Anonymous Inner Class.md",
-    "docs/wip/mo-xing-wen-jian-json.md",
-    "docs/wip/zi-ding-yi-pei-fang.md",
-    "docs/chapter-1/1.3/1.3.5.md",
-    "docs/chapter-2/2.6/2.6.2 first armor.md",
-    "docs/chapter-2/2.Missing Texture.md"
+    "docs/chapter-2/2.4.md",
+    "docs/chapter-2/2.1.md",
+    "docs/chapter-2/2.5/2.5.4.md",
+    "docs/chapter-2/2.5/2.5.2.md",
+    "docs/chapter-2/2.5/2.5.3.md",
+    "docs/chapter-2/2.5/2.5.1.md",
+    "docs/chapter-2/2.5/proxysystem.md"
   ]
 }
