@@ -47,8 +47,9 @@
 		* [3.2.1 自定食物](chapter-3/3.2/3.2.1.md)
 		* [3.2.2 自定作物](chapter-3/3.2/3.2.2.md)
 	* 3.3 自定义附魔
-		* [3.3.1 爆炸附魔](chapter-3/3.3/slownessEnchant.md)
-	
+		* [3.3.1 缓速攻击附魔](chapter-3/3.3/slownessEnchant.md)
+		* 
+	* 3.4 自定义事件
 
 ***
 

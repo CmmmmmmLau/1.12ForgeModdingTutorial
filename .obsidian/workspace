@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-3/3.4/callevent.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-3/3.4/callevent.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-3/3.4/callevent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
-    "docs/chapter-3/3.3/slownessEnchant.md",
-    "docs/chapter-2/2.5/2.5.2.md",
-    "docs/chapter-2/2.1.md",
+    "docs/chapter-3/3.4/registryevent.md",
+    "docs/chapter-3/3.4/callevent.md",
     "docs/_sidebar.md",
-    "docs/chapter-3/3.2/3.2.1.md",
+    "docs/README.md",
+    "docs/chapter-3/3.3/explosionenchant.md",
+    "docs/chapter-3/3.3/lifestealAttakcEnchat.md",
+    "docs/chapter-3/3.3/slownessEnchant.md",
     "docs/chapter-3/3.2/3.2.2.md",
-    "docs/chapter-2/2.5/2.5.1.md",
-    "docs/chapter-3/3.1/3.1.2.md",
-    "docs/chapter-3/3.1/3.1.1.md",
-    "docs/chapter-2/2.4.md"
+    "docs/chapter-3/3.2/3.2.1.md",
+    "docs/chapter-2/2.5/2.5.2.md"
   ]
 }
