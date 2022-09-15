@@ -49,8 +49,8 @@
 	* 3.3 自定义附魔
 		* [3.3.1 缓速攻击附魔](chapter-3/3.3/slownessEnchant.md)
 		* [3.3.2 爆炸攻击附魔](chapter-3/3.3/explosionenchant.md)
-	* 3.4 自定义事件
-		* [3.4.1 使用现成事件](chapter-3/3.4/callevent.md)
+	* [3.4 自定义事件](chapter-3/3.4/callevent.md)
+	
 
 ***
 
