@@ -107,3 +107,25 @@ public class ExampleEvent {
 }
 ```
 注意方法体必须要是静态的.
+
+## 滥用事件
+这个效果的实现实际上根本用不到事件系统,`Item`类和`Block`类中本身就已经有很多与交互有关的方法了. 只需要重写该方法即可实现, 一切本身可以不用事件实现的效果却用事件实现都统称为滥用事件. 过分的滥用事件会导致MSPT的增加, 由于MC是单线程游戏且TPS只有20. 因此维持MSPT低于50才能保持游戏流程.
+```java
+public class BlockOreCopper extends BlockBase {  
+    public BlockOreCopper() {  
+        super(Material.ROCK, "ore_copper");  
+        this.setHarvestLevel("pickaxe", 2);  
+        this.setHardness(1.5F);  
+    }  
+    @Override  
+    public boolean onBlockActivated(World world, BlockPos pos, IBlockState state, EntityPlayer player, EnumHand hand, EnumFacing facing, float hitX, float hitY, float hitZ) {  
+        ItemStack itemStack = player.getHeldItemMainhand();  
+        Block block = state.getBlock();  
+        if (Block.isEqualTo(block, ModBlockList.BLOCK_ORE_COPPER) && ItemStack.areItemsEqual(itemStack, new ItemStack(ModItemList.INGOT_COPPER))) {  
+            player.inventory.addItemStackToInventory(new ItemStack(ModItemList.INGOT_COPPER, 1));  
+            return true;  
+        }        
+        return false;  
+    }
+}
+```
