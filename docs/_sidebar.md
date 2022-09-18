@@ -50,12 +50,14 @@
 		* [3.3.1 缓速攻击附魔](chapter-3/3.3/slownessEnchant.md)
 		* [3.3.2 爆炸攻击附魔](chapter-3/3.3/explosionenchant.md)
 	* [3.4 自定义事件](chapter-3/3.4/callevent.md)
-	
+	* 3.5 自定村民和交易
+		* [3.5.1 添加村民](chapter-3/3.5/addVillage.md)
+		* [3.5.2 添加交易](chapter-3/3.5/addTradList.md)
+	* 3.6 自定义状态效果和药水
+	* 3.7 客户端和服务端
 
 ***
 
 * WIP
 	* 模型文件JSON
-	* 自定义附魔
 	* 自定义药水效果
-	* 自定义村民交易
