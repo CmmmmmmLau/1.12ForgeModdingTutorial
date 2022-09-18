@@ -54,6 +54,9 @@
 		* [3.5.1 添加村民](chapter-3/3.5/addVillage.md)
 		* [3.5.2 添加交易](chapter-3/3.5/addTradList.md)
 	* 3.6 自定义状态效果和药水
+		* [3.6.1 新状态效果](chapter-3/3.6/customEffect.md)
+		* 新药水
+		* 炼药台配方
 	* 3.7 客户端和服务端
 
 ***

@@ -10,8 +10,9 @@ VillagerProfession prof = new VillagerProfession("minecraft:farmer",
     (new VillagerCareer(prof, "shepherd")).init(VanillaTrades.trades[0][2]);  
     (new VillagerCareer(prof, "fletcher")).init(VanillaTrades.trades[0][3]);  
 }
+//这段是原版的代码
 ```
-Forge的源码里可以看到原版村民里大类`farmer`里细分出了四个职业`farmer`, `fisherman`, `shepherd`和`fletcher`. 因此在游戏里和村民交互的实际部分是`VillagerCareer`的实例而不是`VillagerProfession`的. 
+源码里可以看到原版村民里大类`farmer`里细分出了四个职业`farmer`, `fisherman`, `shepherd`和`fletcher`. 因此在游戏里和村民交互的实际部分是`VillagerCareer`的实例而不是`VillagerProfession`的. 
 
 ```java
 @Mod.EventBusSubscriber  
