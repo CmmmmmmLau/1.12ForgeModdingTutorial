@@ -23,7 +23,8 @@ public class ModPotionType {
 ```
 
 ## 添加酿造配方
-原版和Forge都添加了方法用来快速添加酿造配方
+原版和Forge都添加了方法用来快速添加酿造配方.
+酿造台下方的三个槽同时是输入和输出槽, 而上方的单个槽为配料槽.
 
 ### 原版
 ```java
@@ -33,7 +34,7 @@ public class ModBrewingRecipe {
     }
 }
 ```
-`PotionHelper`下有方法可以快捷添加, 但是原版提供的方法功能较为有限. 其第一个参数是酿造台下方的三个输入槽, 第三个参数则为输出物, 并且**必须**得要是药水形式. 第二个则为酿造台上方放的配料.
+`PotionHelper`下有方法可以快捷添加, 但是原版提供的方法功能较为有限. 其第一个参数是酿造输入物, 第三个参数则为输出物, 并且**必须**得要是药水形式. 第二个则为酿造台上方放的配料.
 写完记得在预注册阶段调用即可.
 
 ### Forge
@@ -44,7 +45,7 @@ public class ModBrewingRecipe {
     }
 }
 ```
-Forge提供的接口, 输入输出和配料都能传入`ItemStack`. 同时还有另一个重载的方法是配料能传入矿物词典. 缺点是因为不包含NBT的检查, 因此无法传入药水. 如果试图使用药水会出现所有不论附带任何状态效果的药水都能使用的问题. 
+Forge提供的接口, 输入输出和配料都能传入`ItemStack`. 同时还有另一个重载的方法是配料能传入矿物词典. 缺点是因为不包含NBT的检查, 因此无法传入药水. 如果试图使用药水会出现所有不论附带任何状态效果的药水都能使用的问题, 因为附带不同状态效果的药水本质上就是`Items.POTIONITEM`带上了不同的NBT标签.
 也可以实现接口`IBrewingRecipe`来做到输入, 输出和配料的具体控制.
 如果不需要这么细节的话可以拓展`AbstractBrewingRecipe`做到只对配料输入的控制.
 
@@ -56,7 +57,9 @@ public class CustomBrewingRecipe extends AbstractBrewingRecipe {
     }  
     @Override  
     public boolean isIngredient(@Nonnull ItemStack ingredient) {  
-        return  ingredient.getItem().equals(PotionUtils.addPotionToItemStack(new ItemStack(Items.POTIONITEM), ModPotionType.FALL_PROTECTION_0).getItem());  
+        if (ingredient.hasTagCompound()){  
+            return ingredient.getTagCompound().getString("Potion").equals("testmod:fall_protection_0");  
+        }        return false;  
     }
 }
 ```
