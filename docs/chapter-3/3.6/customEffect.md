@@ -9,7 +9,8 @@ public class PotionFallProtection extends Potion {
     protected PotionFallProtection() {  
         super(false, 0xe30e0e);  
         setRegistryName(Testmod.MOD_ID + ":fall_protection");  
-        setPotionName("effect." + Testmod.MOD_ID + ".fallProtection");  
+        setPotionName("effect." + Testmod.MOD_ID + ".fallProtection");
+        //这个方法作用和setTranslationKey类似.  
     }
 }
 ```
@@ -18,21 +19,21 @@ public class PotionFallProtection extends Potion {
 - `liquidColorIn` 药水和其粒子效果的颜色, 传入的是想要颜色的十六进制.
 
 ## 状态效果的实现
-状态效果实现主要分三种途径, 是否为即时状态, 持续状态, 事件监听.
+状态效果实现主要分三种途径, 是否为即时状态或持续状态和事件监听.
 
-### 即时药水
+### 即时状态
 即时状态指的是如瞬间治疗和瞬间伤害这种药水, 一旦施加就立刻会触发. 只要重写`Potion`类中的两个方法即可.
 ```java
 @Override  
 public boolean isInstant() {  
     return true;
-    //默认返回false, 当为true时就为即时药水
+    //默认返回false, 当为true时就为即时状态
 }  
   
 @Override  
 public void affectEntity(@Nullable Entity source, @Nullable Entity indirectSource, EntityLivingBase entityLivingBaseIn, int amplifier, double health) {  
 	//source参数是伤害的直接来源
-	//indirectSource参数是间接来源, 既是谁造成了这个伤害
+	//indirectSource参数是间接来源, 既是谁利用这个状态造成了这个伤害
 	//entityLivingBaseIn, 受到伤害的实体
 	//amplifier, 所施加状态效果的等级
 	//health, 未知, 经过实际测试也不是HP
@@ -49,7 +50,7 @@ public boolean isReady(int duration, int amplifier) {
     return true;
     //这个方法在每个tick都会调用一次, 并且当该方法返回true时会调用下方的performEffect
     //因为参数列表中还带有持续时间和效果等级
-    //因此能写出很具体的true&fals机制
+    //因此能写出很具体的true&false机制
     //比如
     //return duration % 100 == 0
     //每过5秒转true

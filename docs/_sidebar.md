@@ -55,13 +55,13 @@
 		* [3.5.2 添加交易](chapter-3/3.5/addTradList.md)
 	* 3.6 自定义状态效果和药水
 		* [3.6.1 新状态效果](chapter-3/3.6/customEffect.md)
-		* 新药水
-		* 炼药台配方
+		* [3.6.2 新的药水与酿造](chapter-3/3.6/newPotionType.md)
+		* 
 	* 3.7 客户端和服务端
 
 ***
 
 * WIP
 	* 模型文件JSON
-	* 自定义药水效果
+	* NBT
 	* 客户端和服务端
