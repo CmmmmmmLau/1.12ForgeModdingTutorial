@@ -57,7 +57,7 @@
 		* [3.6.1 新状态效果](chapter-3/3.6/customEffect.md)
 		* [3.6.2 新的药水与酿造](chapter-3/3.6/newPotionType.md)
 		* [3.6.2 图标渲染](chapter-3/3.6/effectUI.md)
-	* 3.7 客户端和服务端
+	* [3.7 服务端和客户端](chapter-3/3.7/side.md)
 
 ***
 
