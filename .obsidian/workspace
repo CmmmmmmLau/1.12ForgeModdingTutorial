@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-3/3.6/effectUI.md",
+            "file": "docs/_sidebar.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/chapter-3/3.6/effectUI.md",
+            "file": "docs/_sidebar.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter-3/3.6/effectUI.md",
+                "file": "docs/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
+    "docs/chapter-3/3.6/effectUI.md",
+    "docs/README.md",
     "docs/_sidebar.md",
-    "docs/chapter-3/3.6/newPotionType.md",
     "docs/chapter-3/3.6/customEffect.md",
+    "docs/chapter-3/3.6/newPotionType.md",
     "docs/chapter-2/2.Missing Texture.md",
     "docs/chapter-3/3.5/addVillage.md",
     "docs/chapter-3/3.4/callevent.md",
     "docs/chapter-3/3.5/addTradList.md",
-    "docs/chapter-3/3.3/explosionenchant.md",
-    "docs/chapter-3/3.4/registryevent.md",
-    "docs/chapter-2/2.3/Anonymous Inner Class.md"
+    "docs/chapter-3/3.3/explosionenchant.md"
   ]
 }

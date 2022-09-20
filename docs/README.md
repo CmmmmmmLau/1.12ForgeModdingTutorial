@@ -39,5 +39,5 @@
 * JDK1.8.0\_201
 * IntelliJ IDEA Community Edition 2019.3.1 x64
 * Minecraft 1.12.2
-* Forge 14.23.5.2854
+* Forge 14.23.5.2859
 * MCP stable\_39
