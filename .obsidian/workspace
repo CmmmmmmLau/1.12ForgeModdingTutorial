@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-3/3.7/side.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-3/3.7/side.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-3/3.7/side.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
-    "docs/chapter-3/3.7/side.md",
     "docs/_sidebar.md",
+    "docs/chapter-3/3.7/side.md",
     "docs/chapter-3/3.6/effectUI.md",
     "docs/README.md",
     "docs/chapter-3/3.6/customEffect.md",
