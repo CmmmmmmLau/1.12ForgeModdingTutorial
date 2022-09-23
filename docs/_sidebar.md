@@ -62,7 +62,10 @@
 ***
 
 * 4 与世界的交互
-	* 
+	* 4.1 自定实体
+		* [添加实体](chapter-4/entity/addModel.md)
+		* [添加模型](chapter-4/entity/addModel.md)
+		* [添加动画](chapter-4/entity/customAnimation.md)
 
 ***
 * WIP
