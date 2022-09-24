@@ -54,7 +54,7 @@ public ModelCopperGolem() {
 ```
 
 ### render方法
-在覆盖一下`render`方法, 此处内容通常较为固定.
+再覆盖一下`render`方法, 告诉客户端要渲染那些长方体. 此处内容通常较为固定. 
 ```java
 @Override  
 public void render(Entity entityIn, float limbSwing, float limbSwingAmount, float ageInTicks, float netHeadYaw, float headPitch, float scale) {  
