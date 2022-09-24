@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-4/entity/customAnimation.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/_sidebar.md",
+            "file": "docs/chapter-4/entity/customAnimation.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/chapter-4/entity/customAnimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +114,10 @@
   },
   "active": "6bc55d326acc1d41",
   "lastOpenFiles": [
+    "docs/_sidebar.md",
     "docs/chapter-4/entity/customAnimation.md",
     "docs/chapter-4/entity/addModel.md",
     "docs/chapter-4/entity/addEntity.md",
-    "docs/_sidebar.md",
     "docs/chapter-3/3.7/side.md",
     "docs/chapter-3/3.6/effectUI.md",
     "docs/README.md",

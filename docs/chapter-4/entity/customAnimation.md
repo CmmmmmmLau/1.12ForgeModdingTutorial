@@ -25,12 +25,12 @@ public void setRotationAngles(float limbSwing, float limbSwingAmount, float ageI
 ## 手臂摆动
 先前提到过`ageInTicks`是一种模拟时间流动的数字, 那么我们可以配合余弦函数实现手臂来回摆动:
 $$
-A * cos(\omega + \text{ageInTicks} + \varphi)
+A * cos(\omega * \text{ageInTicks} + \varphi)
 $$
 
-但如果这时候直接进入游戏就会发现不管什么状态四肢都会在疯狂摆动, 这时候就需要提供的"开关"参数`limbSwingAmount`:
+但如果这时候直接进入游戏就会发现不管什么状态四肢都会在疯狂摆动, 这时候就需要使用所提供的"开关"参数`limbSwingAmount`:
 $$
-A * cos(\omega + \text{ageInTicks} + \varphi) * \text{limbSwingAmount}
+A * cos(\omega * \text{ageInTicks} + \varphi) * \text{limbSwingAmount}
 $$
 系统会根据实体的运动状态传入适当的数字. 当实体停止运动的时候就会传入0, 这样四肢就会归位. 而不是停在当前运动位置. \
 虽然这时候手臂的摆动已经实现了, 但实际上摆动效果稍微有点不自然. 因为当实体停止运动之后, 四肢会有稍微的来回再摆动一会才停下. \
