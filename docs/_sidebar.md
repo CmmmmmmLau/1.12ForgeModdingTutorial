@@ -66,6 +66,8 @@
 		* [添加实体](chapter-4/entity/addEntity.md)
 		* [添加模型](chapter-4/entity/addModel.md)
 		* [添加动画](chapter-4/entity/customAnimation.md)
+		* [添加AI](chapter-4/entity/entityAI.md)
+		* [属性和修饰符](chapter-4/entity/attribute.md)
 
 ***
 * WIP
