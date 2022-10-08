@@ -48,7 +48,9 @@ public static void EntitySpawnInit() {
     for (Biome biome : ForgeRegistries.BIOMES.getValuesCollection()) {  
         if (BiomeDictionary.hasType(biome, BiomeDictionary.Type.PLAINS) || BiomeDictionary.hasType(biome, BiomeDictionary.Type.COLD)) {  
             spawnList.add(biome);  
-        }    }    EntityRegistry.addSpawn(EntityDirtBallKing.class, 100, 1, 3, EnumCreatureType.MONSTER, spawnList.toArray(new Biome[0]));  
+        }    
+    }    
+    EntityRegistry.addSpawn(EntityDirtBallKing.class, 100, 1, 3, EnumCreatureType.MONSTER, spawnList.toArray(new Biome[0]));  
 }
 ```
 
