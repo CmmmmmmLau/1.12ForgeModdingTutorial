@@ -68,6 +68,7 @@
 		* [添加动画](chapter-4/entity/customAnimation.md)
 		* [添加AI](chapter-4/entity/entityAI.md)
 		* [属性和修饰符](chapter-4/entity/attribute.md)
+		* [添加生成](chapter-4/entity/spawn.md)
 
 ***
 * WIP
