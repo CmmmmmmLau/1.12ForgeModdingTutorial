@@ -46,8 +46,13 @@ AttributeModifier SPEED_MODIFIER = new AttributeModifier(UUID.randomUUID(), "tes
 - `operationIn` == 1: 标记为1的修饰符是对属性数值百分比增加, 但是修饰符的数值会先进行叠加: $20 * (1 + 0.5 + 1.5) = 60$
 - `operationIn` == 2: 标记为2的修饰符也是对属性数值百分比增加, 但是修饰符的数值不会相互影响: $20 * (1 + 0.5) * (1 + 1.5) = 75$
 
+Forge也提供了对应的常量:
+- 0: `Constants.AttributeModifierOperation.ADD`
+- 1: `Constants.AttributeModifierOperation.ADD_MULTIPLE`
+- 2: `Constants.AttributeModifierOperation.MULTIPLY`
+
 ## 套用修饰符
-首先得要获得实体的`IAttributeInstance`
+首先得要获得实体的`IAttributeInstance`, 并指定我们想要修改的属性词条
 ```java
 IAttributeInstance attributeInstance = this.getEntityAttribute(SharedMonsterAttributes.MAX_HEALTH);
 ```
