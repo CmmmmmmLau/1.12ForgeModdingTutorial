@@ -112,17 +112,17 @@
     "width": 222.5,
     "collapsed": true
   },
-  "active": "6bc55d326acc1d41",
+  "active": "7f770caffffb5d02",
   "lastOpenFiles": [
     "docs/chapter-4/entity/spawn.md",
+    "docs/_sidebar.md",
+    "docs/chapter-4/entity/lootTable.md",
     "docs/chapter-4/entity/addEntity.md",
     "docs/chapter-4/entity/entityAI.md",
     "docs/chapter-4/entity/dataManager.md",
     "docs/chapter-4/entity/customAnimation.md",
     "docs/chapter-4/entity/attribute.md",
     "docs/chapter-4/entity/addModel.md",
-    "docs/_sidebar.md",
-    "docs/chapter-1/1.3/1.3.4.md",
-    "docs/chapter-1/1.3/1.3.5.md"
+    "docs/chapter-1/1.3/1.3.4.md"
   ]
 }

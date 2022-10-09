@@ -37,7 +37,7 @@ public static final EntityEntry COPPER_GOLEM = EntityEntryBuilder
 
 Forge也将原版的各种群系都打上了各种`Type`, 所有的`Type`也都是实例, 并提供了对应的方法.
 - `BiomeDictionary.getBiomes(BiomeDictionary.Type.PLAINS)`: 使用类型获得对应群系
-- ` BiomeDictionary.getTypes(Biomes.BEACH)`: 传入某个群系获得其包含的类型\
+- ` BiomeDictionary.getTypes(Biomes.BEACH)`: 传入某个群系获得其包含的类型
 
 虽然说类名是叫`Type`, 但我个人更倾向于叫**标签**.
 

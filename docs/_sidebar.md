@@ -69,9 +69,13 @@
 		* [添加AI](chapter-4/entity/entityAI.md)
 		* [属性和修饰符](chapter-4/entity/attribute.md)
 		* [添加生成](chapter-4/entity/spawn.md)
+	* 4.2 
 
 ***
 * WIP
 	* 模型文件JSON
 	* NBT
-	* 客户端和服务端
+	* Loot Table
+	* Capability
+	* TileEntity - Chest
+	* TileEntity - Machine Block
