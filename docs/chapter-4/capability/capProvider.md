@@ -13,7 +13,8 @@ public class ProviderLifeSteal implements ICapabilitySerializable<NBTTagCompound
         return this.capability.equals(capability);  
     }  
     @Nullable  
-    @Override    public <T> T getCapability(@Nonnull Capability<T> capability, @Nullable EnumFacing facing) {  
+    @Override    
+    public <T> T getCapability(@Nonnull Capability<T> capability, @Nullable EnumFacing facing) {  
         return this.capability.equals(capability) ? this.capability.cast(this.instance) : null;  
     }  
     @Override  
@@ -28,7 +29,7 @@ public class ProviderLifeSteal implements ICapabilitySerializable<NBTTagCompound
 ```
 
 ## 附加能力
-完事具备, 只差应用. 
+万事具备, 只差应用. 
 所有对象的能力附加都是通过`AttachCapabilityEvent`事件来完成, 该事件有以下五个可用的泛型
 -   `AttachCapabilityEvent<Entity>`: 仅对实体触发
 -   `AttachCapabilityEvent<TileEntity>`: 仅对TileEntity触发

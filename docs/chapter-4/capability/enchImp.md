@@ -14,7 +14,8 @@ public static void onEnchantmentLifeStealUpdate(LivingEvent.LivingUpdateEvent ev
                 if (timer > 0) {  
                     capabilityLifeSteal.setTimer(timer - 1);  
                 }                entityLivingBase.sendMessage(new TextComponentString(String.valueOf(timer)));  
-            }        }  
+            }        
+        }  
     }
 }  
   
