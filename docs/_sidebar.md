@@ -68,8 +68,13 @@
 		* [添加动画](chapter-4/entity/customAnimation.md)
 		* [添加AI](chapter-4/entity/entityAI.md)
 		* [属性和修饰符](chapter-4/entity/attribute.md)
+		* [数据管理器](chapter-4/entity/dataManager.md)
 		* [添加生成](chapter-4/entity/spawn.md)
-	* 4.2 
+	* [4.2 能力系统](chapter-4/capability/README.md)
+		* [4.2.1 新能力](chapter-4/capability/addCap.md)
+		* [4.2.2 注册能力](chapter-4/capability/registryCap.md)
+		* [4.2.3 能力提供者](chapter-4/capability/capProvider.md)
+		* [4.2.4 附魔的实现](chapter-4/capability/enchImp.md)
 
 ***
 * WIP
