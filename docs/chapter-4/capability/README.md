@@ -29,7 +29,7 @@ if (tileEntity.hasCapability(CapabilitySomething.ModCap, null)) {
 ```
 
 ## 能力系统的运作
-一个能力系统的运作主要分成3个角色. **访问者/调用方**, **能力提供者(CapabilityProvider)**和**能力(Capability)** .\
+一个能力系统的运作主要分成3个角色. **访问者/调用方**, **能力提供者(CapabilityProvider)** 和 **能力(Capability)** .\
 在游戏逻辑中, 首先访问者会对被访问对象的能力提供者询问该对象是否拥有某个能力. 如果有, 则直接返回该能力的实例. 若没有则返回null.\
 而将能力附着在目标上的过程则是通过Forge的事件系统完成.\
 但遗憾的是能力系统只涉及到数据方面的运作, 而对于数据存储的要求在不单独实现新功能的情况下依旧得返回到NBT标签上.
