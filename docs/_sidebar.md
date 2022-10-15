@@ -76,11 +76,11 @@
 		* [4.2.3 能力提供者](chapter-4/capability/capProvider.md)
 		* [4.2.4 附魔的实现](chapter-4/capability/enchImp.md)
 	*  4.3 实体方块
-		***
-		111
-		111
-		***
-		111
+		* ***
+		* 111
+		* 111
+		* ***
+		* 111
 
 ***
 * TODO
