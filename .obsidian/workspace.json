@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "10ca3f09dbbf48fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a36894a272b2fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc55d326acc1d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/WIP/network/addChannel.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60a9b045a75b833d",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ea11d78b30675a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77772ef4e8cc1b29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3975544cfff5a31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "675d7257d2c38404",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf00ac1b271f9fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3edbad72e0480b7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/WIP/network/addChannel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72bfef1b6e972f1f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6bc55d326acc1d41",
+  "lastOpenFiles": [
+    "docs/chapter-4/capability/registryCap.md",
+    "docs/chapter-4/capability/enchImp.md",
+    "docs/chapter-4/capability/addCap.md",
+    "docs/chapter-4/capability/capProvider.md",
+    "docs/_sidebar.md",
+    "docs/WIP/network/addChannel.md",
+    "docs/chapter-4/capability/README.md",
+    "docs/chapter-4/entity/customAnimation.md",
+    "docs/chapter-4/entity/dataManager.md",
+    "docs/chapter-4/entity/lootTable.md"
+  ]
+}

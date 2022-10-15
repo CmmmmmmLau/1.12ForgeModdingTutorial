@@ -1,3 +1,4 @@
+
 能力注册简单使用Forge提供的方法即可, 但其中需要的三个参数较为复杂. 
 ```java
 public <T> void register(Class<T> type, Capability.IStorage<T> storage, Callable<? extends T> factory)

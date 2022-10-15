@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
   "strictLineBreaks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "showInlineTitle": false
 }
