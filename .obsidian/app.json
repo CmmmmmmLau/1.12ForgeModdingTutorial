@@ -9,5 +9,7 @@
   "autoPairBrackets": false,
   "strictLineBreaks": true,
   "fileSortOrder": "alphabetical",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "autoPairMarkdown": false
 }

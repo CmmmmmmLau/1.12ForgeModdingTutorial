@@ -3,5 +3,6 @@
   "baseFontSize": 16,
   "translucency": true,
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": ""
 }
